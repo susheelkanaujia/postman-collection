@@ -1,13 +1,13 @@
 {
 	"info": {
-		"_postman_id": "59f970ec-f105-42ed-a27e-ed9ba6a2e9ae",
+		"_postman_id": "bfa70825-e554-4f67-a2e1-2d06e89b8705",
 		"name": "Trello Test Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29075785"
 	},
 	"item": [
 		{
-			"name": "Get All Boards 1",
+			"name": "Get All Boards 2",
 			"request": {
 				"method": "GET",
 				"header": [],
