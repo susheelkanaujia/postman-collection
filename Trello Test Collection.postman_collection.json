@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Get All Boards",
+			"name": "Get All Boards 1",
 			"request": {
 				"method": "GET",
 				"header": [],
